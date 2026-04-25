@@ -1,4 +1,4 @@
-# Form to Notion Pipeline — Make.com Workflow
+# Form to Notion Pipeline — Make.com Scenario
 
 ## What It Does
 Captures client inquiry form submissions instantly, creates 
@@ -26,7 +26,7 @@ Tally Form → Webhook → Make.com → Notion Database + Telegram
 2. Connect your Notion credential and share database with integration
 3. Connect your Telegram Bot credential
 4. Create your Tally form and paste webhook URL into Tally integrations
-5. Activate the workflow
+5. Activate the scenario
 
 ## Use Case
 Small business owners who want to automatically capture 
